@@ -9,7 +9,9 @@ Register a free apikey here, and you will get 50 free monthly requests. You can 
 
 Once you have registered your apikey, get started with the following API request:
 
+``` 
 curl https://app.zenserp.com/api/v2/search?q=pied+piper&apikey=YOUR-APIKEY
+```
 
 ### Full Documentation
 Our API Playground covers all endpoints and helps you to configure your API requests. It also generates code snippets for the most common programming languages. Also, our documentation describes every endpoint in full detail and provides useful examples.
@@ -21,4 +23,4 @@ We provide personal support via chat and email. For most plans, we offer concier
 Zenserp combines high speed with high levels of concurrency. For extra-large request volumes, we also provide an asynchronous batch endpoint.
 
 ### Contact Us 
-Do not hesitate to contact us if you have any questions. You can reach out via [hey](chat) or via email.
+Do not hesitate to contact us if you have any questions. You can reach out via [chat](https://zenserp.com) or via [email](mailto:support@zenserp.com).
