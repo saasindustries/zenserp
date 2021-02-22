@@ -2,7 +2,7 @@
 
 Scraping search result pages (SERP) has always been complicated: dealing with captchas, managing proxies, implementing a retry-management system, etc. In total, SERP aggregation has always been an operations-heavy and expensive task.
 
-Zenserp makes SERP scraping easy and handles scraping related internally. All it takes is a simple API call: 
+[Zenserp](https://zenserp.com) makes SERP scraping easy and handles scraping related internally. All it takes is a simple API call: 
 
 ### Getting started
 Register a free apikey [here](https://app.zenserp.com/register?plan=free), and you will get 50 free monthly requests. You can request more free requests by [contacting us](mailto:support@zenserp.com).
