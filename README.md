@@ -1,5 +1,7 @@
 # zenserp - SERP API
 
+General information: [https://zenserp.com](https://zenserp.com)
+
 Scraping search result pages (SERP) has always been complicated: dealing with captchas, managing proxies, implementing a retry-management system, etc. In total, SERP aggregation has always been an operations-heavy and expensive task.
 
 [Zenserp](https://zenserp.com) makes SERP scraping easy and handles scraping related internally. All it takes is a simple API call: 
