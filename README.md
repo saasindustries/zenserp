@@ -1,4 +1,4 @@
-# zenserp
+# zenserp - SERP API
 
 Scraping search result pages (SERP) has always been complicated: dealing with captchas, managing proxies, implementing a retry-management system, etc. In total, SERP aggregation has always been an operations-heavy and expensive task.
 
@@ -21,4 +21,4 @@ We provide personal support via chat and email. For most plans, we offer concier
 Zenserp combines high speed with high levels of concurrency. For extra-large request volumes, we also provide an asynchronous batch endpoint.
 
 ### Contact Us 
-Do not hesitate to contact us if you have any questions. You can reach out via chat or via email.
+Do not hesitate to contact us if you have any questions. You can reach out via [hey](chat) or via email.
