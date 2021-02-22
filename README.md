@@ -17,7 +17,7 @@ curl https://app.zenserp.com/api/v2/search?q=pied+piper&apikey=YOUR-APIKEY
 Our [API Playground](https://app.zenserp.com/playground) covers all endpoints and helps you to configure your API requests. It also generates code snippets for the most common programming languages. Also, our [documentation](https://app.zenserp.com/documentation) describes every endpoint in full detail and provides useful examples.
 
 ### Professional Support
-We provide personal support via chat and email. For most plans, we offer concierge onboarding, including personal web meetings, the creation of custom plans, etc.
+We provide personal support via [chat](https://zenserp.com) or [email](mailto:support@zenserp.com). For most plans, we offer concierge onboarding, including personal web meetings, the creation of custom plans, etc.
 
 ### Maximum Speed
 Zenserp combines high speed with high levels of concurrency. For extra-large request volumes, we also provide an asynchronous batch endpoint.
