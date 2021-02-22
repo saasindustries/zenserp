@@ -16,6 +16,9 @@ curl https://app.zenserp.com/api/v2/search?q=pied+piper&apikey=YOUR-APIKEY
 ### Full Documentation
 Our [API Playground](https://app.zenserp.com/playground) covers all endpoints and helps you to configure your API requests. It also generates code snippets for the most common programming languages. Also, our [documentation](https://app.zenserp.com/documentation) describes every endpoint in full detail and provides useful examples.
 
+To provide you with the best developer experience possible, we also created a Postman collection covering all of our endpoints, including plenty of examples.
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a888b56749cd50cc525d)
+
 ### Professional Support
 We provide personal support via [chat](https://zenserp.com) or [email](mailto:support@zenserp.com). For most plans, we offer concierge onboarding, including personal web meetings, the creation of custom plans, etc.
 
