@@ -9,7 +9,7 @@ Register a free apikey here, and you will get 50 free monthly requests. You can 
 
 Once you have registered your apikey, get started with the following API request:
 
-``` 
+```curl 
 curl https://app.zenserp.com/api/v2/search?q=pied+piper&apikey=YOUR-APIKEY
 ```
 
