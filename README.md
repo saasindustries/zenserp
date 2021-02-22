@@ -5,7 +5,7 @@ Scraping search result pages (SERP) has always been complicated: dealing with ca
 Zenserp makes SERP scraping easy and handles scraping related internally. All it takes is a simple API call: 
 
 ### Getting started
-Register a free apikey here, and you will get 50 free monthly requests. You can request more free requests by contacting us.
+Register a free apikey [here](https://app.zenserp.com/register?plan=free), and you will get 50 free monthly requests. You can request more free requests by [contacting us](mailto:support@zenserp.com).
 
 Once you have registered your apikey, get started with the following API request:
 
